@@ -38,7 +38,8 @@ Analyzed pizza sales data using SQL Server and built an interactive dashboard in
 
 ## 📂 Files Included
 - Pizza_Sales.sql → SQL queries used for analysis  
-- Pizza_Sales.pbix → Power BI dashboard  
+- Pizza_Sales.pbix → Power BI dashboard
+- pizza_sales.csv → Dataset  
 
 ## 🚀 Conclusion
 This project demonstrates end-to-end data analysis using SQL Server and Power BI, including data querying, transformation, and visualization to derive actionable business insights.
