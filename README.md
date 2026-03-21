@@ -7,6 +7,9 @@ Analyzed pizza sales data using SQL Server and built an interactive dashboard in
 - SQL Server (Data extraction and analysis)
 - Power BI (Dashboard and visualization)
 
+## 📊 Dataset
+Sample dataset used for analysis and visualization
+
 ## 📊 Dashboard Preview
 
 <p align="center">
